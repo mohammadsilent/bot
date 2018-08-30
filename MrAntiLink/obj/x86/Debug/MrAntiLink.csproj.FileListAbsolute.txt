@@ -1,0 +1,12 @@
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\MrAntiLink.exe.config
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\MrAntiLink.exe
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\MrAntiLink.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\Telegram.Bot.dll
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\bin\x86\Debug\Telegram.Bot.xml
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\obj\x86\Debug\MrAntiLink.Form1.resources
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\obj\x86\Debug\MrAntiLink.Properties.Resources.resources
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\obj\x86\Debug\MrAntiLink.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\obj\x86\Debug\MrAntiLink.exe
+C:\Users\Mohammad\Documents\Visual Studio 2013\Projects\MrAntiLink\MrAntiLink\obj\x86\Debug\MrAntiLink.pdb
